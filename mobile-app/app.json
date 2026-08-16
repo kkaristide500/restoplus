@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "RestoPlus",
+    "slug": "restoplus",
+    "scheme": "restoplus",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "plugins": ["expo-router", "expo-camera"]
+  }
+}
